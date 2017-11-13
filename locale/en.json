@@ -13,7 +13,7 @@
     "language": "Language"
   },
   "index": {
-    "searchDescription": "Search for an address, a transaction or a block hash",
+    "searchDescription": "Search for an address, a transaction or a block",
     "preferChain": "Prefer %{chain}?",
     "switchChains": "Switch chains",
     "latestBlocks": "Latest blocks"
